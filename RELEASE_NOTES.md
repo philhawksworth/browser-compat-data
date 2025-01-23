@@ -1,5 +1,48 @@
 # @mdn/browser-compat-data release notes
 
+## [v5.6.33](https://github.com/mdn/browser-compat-data/releases/tag/v5.6.33)
+
+January 23, 2025
+
+### Additions
+
+- `css.properties.font-family.ui-monospace` ([#25665](https://github.com/mdn/browser-compat-data/pull/25665))
+- `css.properties.font-family.ui-rounded` ([#25665](https://github.com/mdn/browser-compat-data/pull/25665))
+- `css.properties.font-family.ui-sans-serif` ([#25665](https://github.com/mdn/browser-compat-data/pull/25665))
+- `css.properties.font-family.ui-serif` ([#25665](https://github.com/mdn/browser-compat-data/pull/25665))
+- `webextensions.api.devtools.inspectedWindow.eval.expression` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.eval.options.contextSecurityOrigin` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.eval.options.frameURL` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.eval.options.scriptExecutionContext` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.eval.options.useContentScriptContext` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.getResources` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.onResourceAdded` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.onResourceContentCommitted` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.Resource` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.Resource.getContent` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.Resource.setContent` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.inspectedWindow.Resource.url` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.Button` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.ElementsPanel` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.ExtensionPanel` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.ExtensionPanel.createStatusBarButton` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.openResource` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.openResource.columnNumber` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.openResource.lineNumber` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.openResource.url` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.setOpenResourceHandler` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.sources` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.SourcesPanel` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.SourcesPanel.createSidebarPane` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+- `webextensions.api.devtools.panels.SourcesPanel.onSelectionChanged` ([#20403](https://github.com/mdn/browser-compat-data/pull/20403))
+
+### Statistics
+
+- 6 contributors have changed 10 files with 876 additions and 9 deletions in 6 commits ([`v5.6.32...v5.6.33`](https://github.com/mdn/browser-compat-data/compare/v5.6.32...v5.6.33))
+- 16,820 total features
+- 1,123 total contributors
+- 5,061 total stargazers
+
 ## [v5.6.32](https://github.com/mdn/browser-compat-data/releases/tag/v5.6.32)
 
 January 21, 2025
